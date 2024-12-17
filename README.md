@@ -1,5 +1,7 @@
 # rtl8814au
-Realtek RTL8814au edited for tx-power = 30db
+Realtek RTL8814au edited for tx-power = 30db but it'
+ needs more editing for the band 2.4ghz.
+
 ## 8814au ( 8814au.ko ) :rocket:
 
 ## Linux Driver for USB WiFi Adapters that are based on the RTL8814AU Chipset
